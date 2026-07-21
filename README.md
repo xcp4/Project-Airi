@@ -102,6 +102,112 @@ Companion Brain
 * Electron
 
 ---
+# 📦 Installation
+
+## Requirements
+
+* Node.js 22+
+* npm
+* Google Gemini API Key
+
+---
+
+## Clone the repository
+
+```bash
+git clone https://github.com/USERNAME/Airi.git
+cd Airi
+```
+
+---
+
+## Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+## Configure environment
+
+Create a `.env` file in the project root.
+
+```env
+GEMINI_API_KEY=YOUR_API_KEY
+APP_URL=http://localhost:3000
+```
+
+---
+
+## Run in development
+
+```bash
+npm run dev
+```
+
+Open:
+
+```
+http://localhost:3000
+```
+
+---
+
+## Build
+
+```bash
+npm run build
+```
+
+---
+
+## Start production
+
+```bash
+npm start
+```
+
+---
+
+# 📁 Project Structure
+
+```
+Airi
+├── src/
+│   ├── components/
+│   ├── services/
+│   ├── brain/
+│   ├── animations/
+│   └── skills/
+│
+├── public/
+│   └── assets/
+│
+├── server.ts
+├── package.json
+└── README.md
+```
+
+---
+
+# ⚙ Environment Variables
+
+| Variable       | Description                  |
+| -------------- | ---------------------------- |
+| GEMINI_API_KEY | Google Gemini API Key        |
+| APP_URL        | Local or deployed server URL |
+
+---
+
+# 🐞 Known Issues
+
+* Browser automation is still experimental.
+* Free Gemini API has strict rate limits.
+* Some features require Chrome remote debugging.
+* Offline mode is still under development.
+
+---
 
 # ⚠ Current Status
 
