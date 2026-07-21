@@ -115,7 +115,7 @@ Companion Brain
 ## Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/Airi.git
+git clone https://github.com/xcp4/Project-Airi.git
 cd Airi
 ```
 
