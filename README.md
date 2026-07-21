@@ -1,4 +1,4 @@
-Airi
+**Airi**
 
 🚧 Alpha Release — Under Active Development
    
@@ -20,7 +20,7 @@ Airi is a next-generation AI desktop companion designed to feel alive rather tha
    
    Some systems are still experimental and may contain bugs.
    
-Roadmap
+**Roadmap**
    Better browser automation
    Long-term memory
    Local AI support
@@ -28,7 +28,7 @@ Roadmap
    Plugin ecosystem
    Improved animation engine
    
-Installation
+**Installation**
    npm install
    npm run dev
    Requirements
@@ -37,6 +37,8 @@ Installation
    
 Create a .env file:
    GEMINI_API_KEY=YOUR_API_KEY
-   
-License
+
+**Open in your browser: http://127.0.0.1:3000/**  
+
+**License**
    MIT
