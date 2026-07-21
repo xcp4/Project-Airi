@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Airi
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/ec267078-d2b5-4a3b-a3c3-c57760d103e8
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🚧 Alpha Release — Under Active Development
+   
+Airi is a next-generation AI desktop companion designed to feel alive rather than behave like a traditional chatbot.
+   
+   Features
+   🧠 Emotional AI
+   💬 Live conversations
+   🎙️ Gemini TTS
+   🌐 Browser automation
+   🎭 Character animation system
+   🧩 JSON-based tool architecture
+   🔌 Modular skill system
+   ⚡ React + TypeScript
+   🎮 Visual Novel inspired interface
+   Current Status
+   
+   This project is currently in Alpha.
+   
+   Some systems are still experimental and may contain bugs.
+   
+Roadmap
+   Better browser automation
+   Long-term memory
+   Local AI support
+   Multiple characters
+   Plugin ecosystem
+   Improved animation engine
+   
+Installation
+   npm install
+   npm run dev
+   Requirements
+   Node.js 22+
+   Gemini API Key
+   
+Create a .env file:
+   GEMINI_API_KEY=YOUR_API_KEY
+   
+License
+   MIT
