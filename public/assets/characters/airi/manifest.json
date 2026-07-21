@@ -1,0 +1,44 @@
+{
+  "id": "com.companion.airi",
+  "name": "Airi",
+  "version": "1.0.0",
+  "author": "Google Creative Labs",
+  "description": "A warm, pink-haired companion with highly expressive multi-layered animations and empathetic interaction algorithms.",
+  "minimumEngineVersion": "3.0.0",
+  "supportedLanguages": ["en-US"],
+  "display": {
+    "defaultTheme": "cosmic-dark",
+    "defaultBackground": "magical-forest",
+    "scale": 1.0,
+    "positionOffset": { "x": 0, "y": 0 }
+  },
+  "capabilities": {
+    "renderingType": "sprite_sequence",
+    "multiLayerExpressions": true,
+    "mouthLipSync": true,
+    "mouseTracking": true
+  },
+  "supportedAnimations": [
+    "idle_default",
+    "idle_breathing",
+    "idle_look_around",
+    "listening",
+    "thinking",
+    "talking_normal",
+    "wave",
+    "happy",
+    "sad",
+    "sleeping"
+  ],
+  "supportedExpressions": [
+    "neutral",
+    "happy",
+    "sad",
+    "angry",
+    "embarrassed",
+    "sleepy",
+    "surprised",
+    "thinking",
+    "confused"
+  ]
+}

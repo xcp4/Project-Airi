@@ -1,0 +1,22 @@
+{
+  "name": "Airi",
+  "version": "1.0.0",
+
+  "avatar": null,
+
+  "animations": {
+
+    "idle": "animations/idle.webm",
+
+    "talking": "animations/talking.webm",
+
+    "thinking": "animations/thinking.webm",
+
+    "happy": "animations/happy.webm",
+
+    "listening": "animations/listening.webm",
+
+    "wave": "animations/wave.webm"
+
+  }
+}

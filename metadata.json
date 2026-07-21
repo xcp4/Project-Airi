@@ -1,0 +1,6 @@
+{
+  "name": "Airi AI Companion",
+  "description": "A premium, modular desktop-style AI companion with a high-fidelity anime avatar, glassmorphic UI, voice interactions, and expressive state-mapped animations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
